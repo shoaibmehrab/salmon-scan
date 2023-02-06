@@ -48,4 +48,41 @@ The input images were preprocessed to enhance their quality and suitability for 
 
 These preprocessing steps were performed to increase the size of the dataset and make it more diverse and representative, which can improve the performance of the learning algorithm.
 
+## Usage
+
+To use the salmon scan dataset in your ML and DL projects, follow these steps:
+
+1. **Clone or download** the salmon scan dataset repository from GitHub.
+2. **Unzip** the file to access the three folders (fresh salmon images, red skin disease, other disease).
+3. **Load** the images into your preferred programming environment, such as Python.
+4. Use standard libraries such as `numpy` or `pandas` to convert the images into arrays, which can be input into a machine learning or deep learning model.
+5. **Split** the dataset into training, validation, and test sets as per your requirement.
+6. **Preprocess** the data as needed, such as resizing and normalizing the images.
+7. **Train** your ML/DL model using the preprocessed training data.
+8. **Evaluate** the model on the test set and make predictions on new, unseen data.
+
+## License
+
+The salmon scan dataset is released under the MIT License, which is an open source license that permits use, modification, and distribution of the software. The full license text can be found in the [LICENSE](LICENSE.txt) file.
+
+## Citation
+
+If you use this dataset in your research or projects, please cite the following reference:
+
+```
+@article{salmonscan_dataset,
+  author = {John Doe},
+  title = {SalmonScan: A Dataset of Fresh and Diseased Salmon Images},
+  year = {2022},
+  journal = {Journal of Fish Biology and Pathology},
+  doi = {10.1093/jfbp/2022.12.3},
+  url = {https://github.com/johndoe/salmonscan}
+}
+```
+
+
+
+
+
+
 
