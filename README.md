@@ -30,3 +30,22 @@ The dataset is stored in PNG format and is currently without a split into traini
 
 Whether you are interested in developing new computer vision algorithms, testing existing models, or simply learning about salmon health and disease, the SalmonScan dataset provides an excellent resource for your needs.
 
+## Data Preprocessing
+
+The input images were preprocessed to enhance their quality and suitability for further analysis. The following steps were taken:
+
+1. Resizing: All the images were resized to a uniform size of 600 pixels in width and 250 pixels in height to ensure compatibility with the learning algorithm.
+
+2. Image Augmentation: To overcome the small amount of images, various image augmentation techniques were applied to the input images. These included:
+  - Horizontal Flip: The images were horizontally flipped to create additional samples.
+  - Vertical Flip: The images were vertically flipped to create additional samples.
+  - Rotation: The images were rotated to create additional samples.
+  - Cropping: A portion of the image was randomly cropped to create additional samples.
+  - Gaussian Noise: Gaussian noise was added to the images to create additional samples.
+  - Shearing: The images were sheared to create additional samples.
+  - Contrast Adjustment (Gamma): The gamma correction was applied to the images to adjust their contrast.
+  - Contrast Adjustment (Sigmoid): The sigmoid function was applied to the images to adjust their contrast.
+
+These preprocessing steps were performed to increase the size of the dataset and make it more diverse and representative, which can improve the performance of the learning algorithm.
+
+
