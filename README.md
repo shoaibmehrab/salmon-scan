@@ -70,13 +70,15 @@ The salmon scan dataset is released under the MIT License, which is an open sour
 If you use this dataset in your research or projects, please cite the following reference:
 
 ```
-@article{salmonscan_dataset,
-  author = {John Doe},
-  title = {SalmonScan: A Dataset of Fresh and Diseased Salmon Images},
-  year = {2022},
-  journal = {Journal of Fish Biology and Pathology},
-  doi = {10.1093/jfbp/2022.12.3},
-  url = {https://github.com/johndoe/salmonscan}
+@article{SHOAIBAHMED2021,
+title = {Fish Disease Detection Using Image Based Machine Learning Technique in Aquaculture},
+journal = {Journal of King Saud University - Computer and Information Sciences},
+year = {2021},
+issn = {1319-1578},
+doi = {https://doi.org/10.1016/j.jksuci.2021.05.003},
+url = {https://www.sciencedirect.com/science/article/pii/S1319157821001063},
+author = {Md {Shoaib Ahmed} and Tanjim {Taharat Aurpa} and Md. {Abul Kalam Azad}},
+keywords = {Fish Diseases, Aquaculture, Image Processing, Machine Learning, Support Vector Machine, Salmon Fish}
 }
 ```
 
