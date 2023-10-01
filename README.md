@@ -64,9 +64,7 @@ To use the salmon scan dataset in your ML and DL projects, follow these steps:
 
 You can download the dataset using the following link:
 
-<a href="https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0" download>
-  <img src="https://cdn.icon-icons.com/icons2/37/PNG/64/download_36434.png" alt="Download Icon" width="32" height="32">
-</a>
+[![Download Dataset](https://cdn.icon-icons.com/icons2/2475/PNG/64/download_icon_149629.png)](https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0)
 
 **Note:** The download button is located in the top left corner after clicking the link.
 
