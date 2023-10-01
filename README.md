@@ -52,7 +52,7 @@ These preprocessing steps were performed to increase the size of the dataset and
 To use the salmon scan dataset in your ML and DL projects, follow these steps:
 
 1. **Clone or download** the salmon scan dataset repository from GitHub.
-2. **Unzip** the file to access the three folders (fresh salmon images, red skin disease, other disease).
+2. **Unzip** the file to access the two folders (FreshFish and InfectedFish).
 3. **Load** the images into your preferred programming environment, such as Python.
 4. Use standard libraries such as `numpy` or `pandas` to convert the images into arrays, which can be input into a machine learning or deep learning model.
 5. **Split** the dataset into training, validation, and test sets as per your requirement.
