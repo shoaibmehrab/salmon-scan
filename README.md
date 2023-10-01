@@ -1,9 +1,9 @@
 # Welcome to the SalmonScan Dataset
 
-The SalmonScan dataset is a collection of images of salmon fish, including healthy fish and fish with two types of diseases. The dataset consists of three classes of images:
+The SalmonScan dataset is a collection of images of salmon fish, including healthy fish and fish with two types of diseases. The dataset consists of two classes of images:
 
-- Fresh salmon
-- Infected Salmon
+- Fresh salmon 🐟
+- Infected Salmon 🦠
 
 This dataset is ideal for various computer vision tasks in machine learning and deep learning applications. Whether you are a researcher, developer, or student, the SalmonScan dataset offers a rich and diverse data source to support your projects and experiments.
 
@@ -20,12 +20,12 @@ Each class contains a representative and diverse collection of images, capturing
 
 The dataset is stored in PNG format and is currently without a split into training, validation, and test sets. However, a typical split would be 60% training, 20% validation, and 20% test, giving the following counts:
 
-| Split      | Fresh Fish | Infected Fish | Total   |
-|------------|------------|---------------|---------|
-| Training   | 273        | 451           | 724     |
-| Validation | 92         | 151           | 243     |
-| Test       | 91         | 150           | 241     |
-| **Total**  | **456**    | **752**       | **1208**|
+| Split      | Fresh Fish 🐟 | Infected Fish 🦠 | Total   |
+|------------|---------------|------------------|---------|
+| Training   | 273           | 451              | 724     |
+| Validation | 92            | 151              | 243     |
+| Test       | 91            | 150              | 241     |
+| **Total**  | **456**       | **752**          | **1208**|
 
 Whether you are interested in developing new computer vision algorithms, testing existing models, or simply learning about salmon health and disease, the SalmonScan dataset provides an excellent resource for your needs.
 
@@ -33,17 +33,17 @@ Whether you are interested in developing new computer vision algorithms, testing
 
 The input images were preprocessed to enhance their quality and suitability for further analysis. The following steps were taken:
 
-1. Resizing: All the images were resized to a uniform size of 600 pixels in width and 250 pixels in height to ensure compatibility with the learning algorithm.
+1. Resizing 📏: All the images were resized to a uniform size of 600 pixels in width and 250 pixels in height to ensure compatibility with the learning algorithm.
 
-2. Image Augmentation: To overcome the small amount of images, various image augmentation techniques were applied to the input images. These included:
-  - Horizontal Flip: The images were horizontally flipped to create additional samples.
-  - Vertical Flip: The images were vertically flipped to create additional samples.
-  - Rotation: The images were rotated to create additional samples.
-  - Cropping: A portion of the image was randomly cropped to create additional samples.
-  - Gaussian Noise: Gaussian noise was added to the images to create additional samples.
-  - Shearing: The images were sheared to create additional samples.
-  - Contrast Adjustment (Gamma): The gamma correction was applied to the images to adjust their contrast.
-  - Contrast Adjustment (Sigmoid): The sigmoid function was applied to the images to adjust their contrast.
+2. Image Augmentation 📸: To overcome the small amount of images, various image augmentation techniques were applied to the input images. These included:
+  - Horizontal Flip ↩️: The images were horizontally flipped to create additional samples.
+  - Vertical Flip ⬆️: The images were vertically flipped to create additional samples.
+  - Rotation 🔄: The images were rotated to create additional samples.
+  - Cropping 🪓: A portion of the image was randomly cropped to create additional samples.
+  - Gaussian Noise 🌌: Gaussian noise was added to the images to create additional samples.
+  - Shearing 🌆: The images were sheared to create additional samples.
+  - Contrast Adjustment (Gamma) ⚖️: The gamma correction was applied to the images to adjust their contrast.
+  - Contrast Adjustment (Sigmoid) ⚖️: The sigmoid function was applied to the images to adjust their contrast.
 
 These preprocessing steps were performed to increase the size of the dataset and make it more diverse and representative, which can improve the performance of the learning algorithm.
 
@@ -64,7 +64,7 @@ To use the salmon scan dataset in your ML and DL projects, follow these steps:
 
 You can download the dataset using the following link:
 
-[![Download Dataset](https://www.dropbox.com/static/images/icons64/arrow-down.png)](https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0)
+[![Download Dataset](https://cdn.icon-icons.com/icons2/2475/PNG/64/download_icon_149629.png)](https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0)
 
 **Note:** The download button is located in the top left corner after clicking the link.
 
@@ -88,10 +88,3 @@ author = {Md {Shoaib Ahmed} and Tanjim {Taharat Aurpa} and Md. {Abul Kalam Azad}
 keywords = {Fish Diseases, Aquaculture, Image Processing, Machine Learning, Support Vector Machine, Salmon Fish}
 }
 ```
-
-
-
-
-
-
-
