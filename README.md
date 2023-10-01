@@ -60,6 +60,14 @@ To use the salmon scan dataset in your ML and DL projects, follow these steps:
 7. **Train** your ML/DL model using the preprocessed training data.
 8. **Evaluate** the model on the test set and make predictions on new, unseen data.
 
+## Dataset Download
+
+You can download the dataset using the following link:
+
+[![Download Dataset](https://www.dropbox.com/static/images/icons64/arrow-down.png)](https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0)
+
+**Note:** The download button is located in the top left corner after clicking the link.
+
 ## License
 
 The salmon scan dataset is released under the MIT License, which is an open source license that permits use, modification, and distribution of the software. The full license text can be found in the [LICENSE](LICENSE.txt) file.
