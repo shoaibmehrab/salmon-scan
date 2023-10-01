@@ -3,7 +3,7 @@
 The SalmonScan dataset is a collection of images of salmon fish, including healthy fish and fish with two types of diseases. The dataset consists of two classes of images:
 
 - Fresh salmon 🐟
-- Infected Salmon 🦠
+- Infected Salmon 🐠
 
 This dataset is ideal for various computer vision tasks in machine learning and deep learning applications. Whether you are a researcher, developer, or student, the SalmonScan dataset offers a rich and diverse data source to support your projects and experiments.
 
@@ -20,7 +20,7 @@ Each class contains a representative and diverse collection of images, capturing
 
 The dataset is stored in PNG format and is currently without a split into training, validation, and test sets. However, a typical split would be 60% training, 20% validation, and 20% test, giving the following counts:
 
-| Split      | Fresh Fish 🐟 | Infected Fish 🦠 | Total   |
+| Split      | Fresh Fish 🐟 | Infected Fish 🐠 | Total   |
 |------------|---------------|------------------|---------|
 | Training   | 273           | 451              | 724     |
 | Validation | 92            | 151              | 243     |
