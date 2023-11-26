@@ -1,6 +1,6 @@
 # Welcome to the SalmonScan Dataset
 
-The SalmonScan dataset is a collection of images of salmon fish, including healthy fish and fish with two types of diseases. The dataset consists of two classes of images:
+The SalmonScan dataset is a collection of images of salmon fish, including healthy fish and infected fish. The dataset consists of two classes of images:
 
 - Fresh salmon 🐟
 - Infected Salmon 🐠
