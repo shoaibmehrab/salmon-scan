@@ -64,7 +64,7 @@ To use the salmon scan dataset in your ML and DL projects, follow these steps:
 
 You can download the dataset using the following link:
 
-⬇️ <a href="https://www.dropbox.com/scl/fi/nv7kglxmxsy5poo155i61/SalmonScan.zip?rlkey=qggp4bh4kcth8pcf3u6z8qw6r&dl=0" target="_blank" rel="noopener noreferrer">Download Dataset</a>
+⬇️ <a href="https://data.mendeley.com/datasets/x3fz2nfm4w/3" target="_blank" rel="noopener noreferrer">Download Dataset</a>
 
 **Note:** The download button is located in the top left corner after clicking the link.
 
@@ -74,7 +74,20 @@ The salmon scan dataset is released under the MIT License, which is an open sour
 
 ## Citation
 
-If you use this dataset in your research or projects, please cite the following reference:
+If you use this dataset in your research or projects, please cite the following references:
+
+```
+@article{ahmed2024salmonscan,
+  title={SalmonScan: A Novel Image Dataset for Machine Learning and Deep Learning Analysis in Fish Disease Detection in Aquaculture},
+  author={Ahmed, Md Shoaib and Jeba, Samiha Maisha},
+  journal={Data in Brief},
+  pages={110388},
+  year={2024},
+  publisher={Elsevier}
+}
+
+```
+
 
 ```
 @article{SHOAIBAHMED2021,
